@@ -1,0 +1,22 @@
+[
+    {
+        "invoice_code": "IV656",
+        "product_name": "ice-cream",
+        "product_type": "food",
+        "quantity": 4,
+        "price": 25000,
+        "subtotal": 0,
+        "customer_name": "customer",
+        "product_id_barcode": 1
+    },
+    {
+        "invoice_code": "IV656",
+        "product_name": "snack",
+        "product_type": "food",
+        "quantity": 2,
+        "price": 10000,
+        "subtotal": 0,
+        "customer_name": "customer",
+        "product_id_barcode": 2
+    }
+]
